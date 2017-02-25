@@ -156,7 +156,7 @@ def guillotine_worker(params):
     return translate_solution(sol, dx, dy)
 
 
-def solve_by_block_parallel(pizza, min_sum, max_size, block_size=(60, 60), n_workers=8):
+def solve_by_block_parallel(pizza, min_sum, max_size, block_size=(60, 60), n_workers=50):
     """
     Solve the problem by block.
     Each block in solve in a separate process.

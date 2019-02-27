@@ -19,4 +19,4 @@ It's possible to tune the weight put on the size of the video: gain = time_gain/
 Best results seems to be with w = 0.9
 
 Score with this code: 2638034
-
+Highest score during the Online Qualification Round was 2651999 (Team Ababahalamaha), and 2653781 (Team Master Exploder) in the Extended Round.
